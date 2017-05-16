@@ -41,6 +41,7 @@ function agregar(){
 		alert("¡Error! Debe ingresar tarea");
 		return false;
 	}
+	
 }
 
 
